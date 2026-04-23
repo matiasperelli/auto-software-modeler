@@ -1,0 +1,1 @@
+A web system where students can reserve study rooms and administrators approve requests. The system also tracks reservations and user activity.
